@@ -1,0 +1,20 @@
+{
+  "name": "kip17_nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@klaytn/contracts": "^1.0.3",
+    "dotenv": "^16.0.2",
+    "truffle-hdwallet-provider-klaytn": "^1.4.2"
+  }
+}
